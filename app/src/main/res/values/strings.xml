@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">lr5Navigation</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello dear visitor, please enter your name</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_uncool_fragment">If you see this fragment it means that you are uncool. Our condolences! But you still can proceed further (or try to realise your coolness).</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sec_activity_home_fragment1">No matter your coolness, you have been permitted to access this top-secret data.</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fact1">The strongest muscle in the body is the tongue.</string>
+    <string name="fact3">There are only two words in the English language that have all five vowels in order: abstemious and facetious.</string>
+    <string name="fact2">Coca-Cola was originally green.</string>
+    <string name="fact4">The name of all the continents end with the same letter that they start with.</string>
+    <string name="fact5">Women blink nearly twice as much as men!</string>
+    <string name="fact7">A snail can sleep for three years.</string>
+    <string name="fact9">On average, people fear spiders more than they do death.</string>
+    <string name="fact10">The cigarette lighter was invented before the match.</string>
+    <string name="fact11">Most lipstick contains fish scales.</string>
+    <string name="fact12">Hair and nails grow faster during pregnancy.</string>
+    <string name="fact13">Your nostrils work one at a time.</string>
+    <string name="fact14">Riding a roller coaster could help you pass a kidney stone.</string>
+    <string name="fact15">Sea lions can dance to a beat.</string>
+    <string name="fact16">For 100 years, maps have shown an island that doesn\'t exist (see Sandy Island, AUS for more).</string>
+    <string name="fact17">Napoleon was once attacked by thousands of rabbits.</string>
+    <string name="fact18">Pigs are constitutionally protected in Florida.</string>
+    <string name="fact19">Sharks can live for five centuries.</string>
+    <string name="fact20">Saudi Arabia imports camels from Australia.</string>
+    <string name="fact21">America\'s first bank robber deposited the money back into the same bank.</string>
+    <string name="fact22">Sharks existed before trees.</string>
+    <string name="fact23">Nine-banded armadillos always have quadruplets, and they’re always identical.</string>
+    <string name="fact24">Dolphins give names to each other.</string>
+    <string name="fact25">A group of owls is called a parliament.</string>
+    <string name="fact26">French Poodles are actually from Germany.</string>
+    <string name="fact27">Pilots and their co-pilots are required to eat different meals before flights so that they don’t both end up with food poisoning.</string>
+    <string name="fact28">While listening to music, your heart can sync to the rhythm.</string>
+    <string name="fact29">Monaco’s orchestra is bigger than its army.</string>
+    <string name="fact30">Tomatoes have more genes than humans.</string>
+    <string name="catFact1">Here\'s an interesting fact: Pope Gregory IV once declared war on cats because he believed Satan used black cats. His declaration lead to the mass extermination of cats.</string>
+    <string name="catFact2">Your cat probably doesn\'t love you</string>
+    <string name="catFact3">Cats are an environmental disaster</string>
+    <string name="catFact4">Your cat might be driving you crazy</string>
+    <string name="catFact5">\" If you are alone with your cat and you die, he will eat you immediately\"</string>
+</resources>
